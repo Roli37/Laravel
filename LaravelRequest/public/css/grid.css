@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+.horse{
+    border-top: 2px black solid;
+    border-bottom: 2px black solid;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+p{
+    text-align: center;
+}
+.bold{
+    font-weight: bold;
+}
+.container .row:nth-child(odd) .col-4:nth-child(odd){
+    background-color: #D3D3D3;
+}
+.container .row:nth-child(even) .col-4:nth-child(even){
+    background-color: #D3D3D3;
+}
+img{
+    width: 80%;
+    margin: auto;
+    display:block;
+}
