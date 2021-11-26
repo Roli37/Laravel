@@ -1,0 +1,20 @@
+[
+    {
+         "gyarto" : "Audi",
+         "tipus" : "A6",
+         "szin" : "szürke",
+         "hatter" : "gray"
+     },
+     {
+         "gyarto" : "Suzuki",
+         "tipus" : "Swift",
+         "szin" : "piros",
+         "hatter" : "red"
+     },
+     {
+         "gyarto" : "Suzuki",
+         "tipus" : "Ignis",
+         "szin" : "sárga",
+         "hatter" : "yellow"
+     }
+]
